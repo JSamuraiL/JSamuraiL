@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JSamuraiL&color=ff6b35&style=flat-square)
 
 </div>
-<h1 align="center">Алексей | Backend Engineer </h1> 
+<h1 align="center">Алексей | Backend Engineer | Junior </h1> 
 
 <div align="center">
   
