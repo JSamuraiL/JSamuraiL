@@ -22,7 +22,7 @@
 
 |ПРОЕКТ|	РОЛЬ|	ТЕХНОЛОГИИ|	СТАТУС|
 |:---------|:---------|:---------|:---------|
-| Dekauto	| Full-Stack Engineer |	`.NET` `PostgreSQL` `Docker` `RabbitMQ` |	🟢 В РАЗРАБОТКЕ |
+| [Dekauto](https://github.com/stars/JSamuraiL/lists/dekauto)	| Full-Stack Engineer |	`.NET` `PostgreSQL` `Docker` `RabbitMQ` |	🟢 В РАЗРАБОТКЕ |
 | Изучение Java |	Trainee Engineer | `Java` `Spring` `Maven` |	🟡 ОБУЧЕНИЕ |
 | Изучение Python |	Trainee Engineer | `Python` `flale8` `Flask` |	🟡 ОБУЧЕНИЕ |
 
