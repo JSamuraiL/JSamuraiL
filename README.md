@@ -3,8 +3,12 @@
   <strong>ИНФОРМАЦИЯ О НАЕМНИКЕ</strong> 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20px">
 </p>
+<div align="center"> 
+   
+![Profile Views](https://komarev.com/ghpvc/?username=JSamuraiL&color=ff6b35&style=flat-square)
 
-<h1 align="center">Алексей | Backend Engineer</h1>
+</div>
+<h1 align="center">Алексей | Backend Engineer </h1> 
 
 <div align="center">
   
@@ -114,10 +118,5 @@
 <div align="right"> 
   
 *@ Некий Senior программист*
-
-</div>
- <div align="center"> 
-   
-![Profile Views](https://komarev.com/ghpvc/?username=JSamuraiL&color=ff6b35&style=flat-square)
 
 </div>
