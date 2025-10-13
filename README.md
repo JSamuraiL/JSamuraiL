@@ -1,33 +1,123 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexey
-===============================================================================================================================
-
-I'm the backend developer, love Java & C#
------------------------------------------
-
-I like working with big and ambitious projects, I am interested in neural networks and software innovations. In addition, I like developing video games.
-
-* 🌍  I'm based in Russia, Moscow
-* ✉️  You can contact me at [https://t.me/Spider\_zzz](mailto:https://t.me/Spider_zzz)
-* 🚀  I'm currently working on [Dekauto](http://github.com/stars/JSamuraiL/lists/dekauto)
-* 🧠  I'm currently learning Java & Python
-
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20px"> 
+  <strong>ИНФОРМАЦИЯ О НАЕМНИКЕ</strong> 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20px">
 </p>
 
-### Socials
+<h1 align="center">Алексей | Backend Engineer</h1>
 
-<p align="left"> <a href="https://www.github.com/JSamuraiL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<div align="center">
+  
+> ❝ Нет, пап, я не чокнутый фронтендер, я бэкендер! Разница в том, что первое — болезнь, а второе — профессия. ❞
+</div>
 
-### Badges
+<div align="right">
+  
+*@Сошедший с ума питонист*
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/JSamuraiL"><img src="https://github-readme-stats.vercel.app/api?username=JSamuraiL&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JSamuraiL's GitHub stats" /></a>
+### 🎯 ТЕКУЩИЕ ОПЕРАЦИИ
 
-<a href="http://www.github.com/JSamuraiL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JSamuraiL&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+|ПРОЕКТ|	РОЛЬ|	ТЕХНОЛОГИИ|	СТАТУС|
+|:---------|:---------|:---------|:---------|
+| Dekauto	| Full-Stack Engineer |	`.NET` `PostgreSQL` `Docker` `RabbitMQ` |	🟢 В РАЗРАБОТКЕ |
+| Изучение Java |	Trainee Engineer | `Java` `Spring` `Maven` |	🟡 ОБУЧЕНИЕ |
+| Изучение Python |	Trainee Engineer | `Python` `flale8` `Flask` |	🟡 ОБУЧЕНИЕ |
 
-<a href="https://github.com/JSamuraiL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSamuraiL&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=JSamuraiL)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 ТЕХНИЧЕСКОЕ ОСНАЩЕНИЕ
+
+#### Backend Арсенал
+
+- Основное вооружение: C#, .NET, Java
+- Тактическое: PostgreSQL, GraphQL, RabbitMQ
+- Поддержка: Docker, Git, Linux
+
+#### Лаборатория R&D
+
+🔬 Нейросети: GPT, DeepSeek, Audio/Video модели
+
+🎮 Геймдев: Unity, Godot, Aseprite, Blender, SAI
+
+---
+
+### 📊 СТАТИСТИКА ЭФФЕКТИВНОСТИ
+
+<div align="center"><a href="https://github.com/JSamuraiL"> <img width="400" src="https://github-readme-stats.vercel.app/api?username=JSamuraiL&show_icons=true&theme=dark&title_color=ff6b35&icon_color=ff8c5a&bg_color=2d2d2d&hide_border=true&border_radius=10" /> </a> <a href="https://github.com/JSamuraiL"> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSamuraiL&layout=compact&theme=dark&title_color=ff6b35&bg_color=2d2d2d&hide_border=true&border_radius=10" /> </a>
+<a href="https://github.com/JSamuraiL"> <img width="815" src="https://github-readme-streak-stats.herokuapp.com/?user=JSamuraiL&theme=dark&background=2d2d2d&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc&hide_border=true&border_radius=10" /> </a></div>
+
+---
+
+### 🏆 Боевые награды
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=JSamuraiL&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+### 🎨 Творческий отдел
+
+#### Геймдев Проекты
+
+🎯 Unity: 2D/3D проекты, игровая логика
+
+🎯 Godot: Экспериментальные проекты  
+
+🎯 Графика: Pixel Art (Aseprite), 2D (SAI), 3D (Blender)
+
+#### Нейросети & AI
+
+🧠 Языковые модели: GPT, DeepSeek API
+
+🎵🎥🖼️ Аудио-визуальная обработка: Использование <img height = 20px, src="https://github.com/pytorch/serve/blob/master/examples/images/huggingface_logo-noborder.svg"> [Hugging Face](https://huggingface.co/spaces)
+
+---
+
+## 📡 КОММУНИКАЦИЯ И КОНТАКТЫ
+
+<div align="center">
+
+### **⚡ Экстренная связь**
+
+[![Email](https://img.shields.io/badge/Email-alex.ermiloff2017%40yandex.ru-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.ermiloff2017@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@Spider_zzz-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Spider_zzz)
+[![GitHub](https://img.shields.io/badge/GitHub-JSamuraiL-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JSamuraiL)
+
+<br>
+
+### **📡 Технические частоты**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+ <div align="center"> 
+   
+ > ❝ Слушай, парень. Я ведь full-stack инженер, и умею решать проблемы. Не проблемы типа «Что есть добро?»,
+    потому что с такими вопросами должны разбираться философы.
+    Я решаю практические проблемы. Например, как можно залатать ошибки в коде, которые наставили другие горе-айтишники?
+    Вот ответ — доставай ноут. Если это не помогло — доставай другой ноут. ❞
+    
+</div>
+<div align="right"> 
+  
+*@ Некий Senior программист*
+
+</div>
+ <div align="center"> 
+   
+![Profile Views](https://komarev.com/ghpvc/?username=JSamuraiL&color=ff6b35&style=flat-square)
+
+</div>
